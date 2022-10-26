@@ -11,7 +11,7 @@ background-image: url('img/fondo.webp');
 }
 .titu{
     font-family: 'Fasthand', cursive;
-    color: rgb(16, 235, 235);
+    color: orange;
     text-decoration: underline white;
 }
 
@@ -67,9 +67,8 @@ footer{
     color: white;
     text-align: center;
     width: 100%;
-    position: fixed;
+    position: fixed; 
     bottom: 0%;
-    
     margin-top: 0%;
 }
 #dere{
